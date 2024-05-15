@@ -8,7 +8,7 @@ The goal of this project is to showcase how machine learning techniques can be l
 
 ### Key Components
 
-- **xDeepFM Model**: Developed and trained using the provided Jupyter Notebook files (`model_training.ipynb`).
+- **xDeepFM Model**: Developed and trained using the provided Jupyter Notebook files (`amazon_rating_T4_linear.ipynb`).
 - **Flask Backend**: Provides RESTful APIs for user authentication, product recommendations, and metadata retrieval.
 - **React Frontend**: Implements the user interface for the e-commerce site and interacts with the Flask backend for recommendations and user data.
 
